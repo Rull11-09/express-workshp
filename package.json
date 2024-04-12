@@ -1,0 +1,22 @@
+{
+  "name": "express-workshp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rull11-09/express-workshp.git"
+  },
+  "author": "Rull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rull11-09/express-workshp/issues"
+  },
+  "homepage": "https://github.com/Rull11-09/express-workshp#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
